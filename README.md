@@ -7,3 +7,4 @@ School data will be analyzed against student test scores to identify any correla
 
 ## Initial Results
 ![School Size Summary](resources/School Size.png)
+![testa](resources/School Type.png)
