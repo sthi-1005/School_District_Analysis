@@ -6,5 +6,6 @@ The school board has notified Maria and her supervisor that the students_complet
 School data will be analyzed against student test scores to identify any correlation in student outcomes with school types, size, and budget per student. The data analyzed consist of approximately 39,000 student test results from 15 schools. Allegations have been made that 9th grade testing scores from Thomas High SChool have been compromised. As such, a seperate set of analysis will be performed with Thomas High School ninth grade data removed.
 
 ## Initial Results
-![School Size Summary](resources/School Size.png)
-![testa](resources/School Type.png)
+![School Size Summary](https://github.com/sthi-1005/School_District_Analysis/blob/2baca25c35903b582dd0f314c602bc83cbd6fbb5/resources/School%20Size.png)
+![School Spending Summary](https://github.com/sthi-1005/School_District_Analysis/blob/2baca25c35903b582dd0f314c602bc83cbd6fbb5/resources/Spending.png)
+![School Type Summary](https://github.com/sthi-1005/School_District_Analysis/blob/2baca25c35903b582dd0f314c602bc83cbd6fbb5/resources/School%20Type.png)
